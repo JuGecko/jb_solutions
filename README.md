@@ -1,6 +1,6 @@
 # Quality Metrics for Agent Trajectories
 ### This is a repository containing solutions of three tasks for the "Quality Metrics for Agent Trajectories" internship.
-I explain tasks 2 and 3 here as well as on Your [website](https://internship.jetbrains.com). In addition, I've attached a pdf copy of the research paper with my highlightes and notes as a proof of my independent work.
+I explain tasks 2 and 3 here as well as on Your desiganted [website](https://internship.jetbrains.com/projects/1790). In addition, I've attached a pdf copy of the research paper with my highlightes and notes as a proof of my independent work.
 ## Task 1
 I've used the Docent API to get each Agent Run's transcript in the GPT-5-2 Codex collection. Authentication is handled through a local environment file containing the Docent API KEY.
 ## Task 2
